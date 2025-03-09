@@ -26,7 +26,7 @@
 pretty self explainatory, make sure the blog is well edited and has no mistakes.
 
 ## step-2 : create a *.markdown* file in the *_posts* folder
-inside this file the first few lines should be dedicated to assigning the *title*,*layout*,*date* and *image* (please refer to[this](https://github.com/MGSE-Blogs/mgse-blogs.github.io/blob/main/_posts/2024-08-29-to-a-new-beginning.markdown?plain=1)) for the format. after the above mentioned variables are defined, upload ur content and save the file.
+inside this file the first few lines should be dedicated to assigning the *title*,*layout*,*date* and *image* (please refer to [this](https://github.com/MGSE-Blogs/mgse-blogs.github.io/blob/main/_posts/2024-08-29-to-a-new-beginning.markdown?plain=1)) for the format. after the above mentioned variables are defined, upload ur content and save the file.
 
 and just like that the blog post must be up and available for the world to see!
 
